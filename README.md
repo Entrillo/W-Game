@@ -1,2 +1,4 @@
 # W-Game
-Zelda like gam~
+Zelda like game~
+
+hey
